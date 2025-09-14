@@ -256,11 +256,4 @@ Bu proje eğitim amaçlı hazırlanmıştır ve özgürce kullanılabilir.
 
 ## 🎉 Teşekkürler
 
-Bu projeyi kullandığınız için teşekkürler! Web geliştirme yolculuğunuzda başarılar dilerim.
 
----
-
-> **İpucu**: Bu README dosyasını yazdırarak ders notlarınızla birlikte kullanabilirsiniz. Öğrencilerinize referans kaynağı olarak verebilirsiniz.
-
-**Son Güncelleme**: Eylül 2024  
-**Sürüm**: 1.0.0
